@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Дамиан
 
-<!--
-**Damian-17/Damian-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Студент | 💻 Начинающий разработчик | 🐍 Изучаю Python**
 
-Here are some ideas to get you started:
+Добро пожаловать на мою страницу GitHub! Здесь я учусь программированию и создаю свои первые проекты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои увлечения программированием
+- **Языки:** Python
+- **Инструменты:** Git, VS Code, Jupyter Notebook
+- **Изучаю:** Веб-разработку, анализ данных
+
+## 📫 Контакты
+- **Email:** tishkin.06.06@mail.ru
+- **Telegram:** [@damian_t_17](https://t.me/damian_t_17)
+
+## 📂 Мои увлечения и хобби помимо программирования
+- **Спорт:** Смотрю и пробую разные виды спорта , играю в полупрофессиональной футбольной команде
+- **Компьютерные игры:** Люблю проходить сюжетные игры и играть в онлайн шутеры
+- **Кино:** Посмотрел много фильмов, люблю находить для себя что-то новое
+
+---
+
+> 💡 *Всегда открыт к новым знаниям и сотрудничеству!*
